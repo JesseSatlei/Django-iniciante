@@ -9,3 +9,14 @@ Explorando o universo dos bancos de dados, integrei o SQL ao meu projeto. Compre
 
 Área Administrativa
 Aprofundei-me na criação de uma área administrativa para o projeto, implementando funcionalidades que permitem a gestão e controle de conteúdo de forma intuitiva. Isso envolveu a utilização de ferramentas como Django Admin para facilitar o gerenciamento de dados.
+
+Comandos relevantes
+
+# Criação de Migration
+python manage.py makemigrations
+
+# Aplicação de Migration
+python manage.py migrate
+
+# Criar superusuário para acessar o Django Admin
+python manage.py createsuperuser
