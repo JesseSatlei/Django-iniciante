@@ -1,0 +1,11 @@
+Projeto de Aprendizado
+Este é um projeto que desenvolvi durante meu processo de aprendizado, focando em compreender e aplicar conceitos essenciais no desenvolvimento web. Abaixo, compartilho algumas das áreas que explorei:
+
+Padrão MTV (Model-Template-View)
+Entendi e pratiquei a implementação do padrão MTV, uma variação do MVC (Model-View-Controller) no contexto do framework Django. Aprendi a organizar o código em camadas distintas, separando as responsabilidades de manipulação de dados (Model), apresentação (Template) e controle de fluxo (View).
+
+Projeto com SQL
+Explorando o universo dos bancos de dados, integrei o SQL ao meu projeto. Compreendi como projetar esquemas de banco de dados, criar tabelas e estabelecer relacionamentos. Além disso, pratiquei consultas SQL para extrair e manipular dados de forma eficiente.
+
+Área Administrativa
+Aprofundei-me na criação de uma área administrativa para o projeto, implementando funcionalidades que permitem a gestão e controle de conteúdo de forma intuitiva. Isso envolveu a utilização de ferramentas como Django Admin para facilitar o gerenciamento de dados.
